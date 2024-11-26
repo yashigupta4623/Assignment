@@ -1,7 +1,7 @@
 # Authentication and Authorization System
 
 ## **Overview**
-This is a basic implementation of an **Authentication and Authorization System**. It allows users to securely register, log in, and log out, while ensuring role-based access control (RBAC) to restrict access to specific resources based on user roles.
+This is a basic implementation of an **Authentication and Authorization System**. It allows users to securely register, log in, and log out to restrict access to specific resources based on user roles.
 
 ---
 
